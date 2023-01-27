@@ -35,7 +35,7 @@ func main() {
 
 }
 
-// slices can be passed by value because this contains only the ptr to the internal array, and a lenght and capacity variable.
+// slices can be passed by value because this contains only the ptr to the internal array, and a lengh and capacity variable.
 func GetSmallestInteger(slice []int) int {
 	if len(slice) > 0 {
 		returnValue := slice[0]
