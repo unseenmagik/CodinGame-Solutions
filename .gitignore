@@ -1,2 +1,4 @@
 .DS_Store
 .gitattributes
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/vcs.xml
